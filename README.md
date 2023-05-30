@@ -8,4 +8,4 @@ Ever since I was a boy, I have been obsessed with technology, computers, games, 
 - 🌱 I’m currently learning the intricacies of Git as well as refamiliarizing myself with the syntax and structure of Java.
 - 📫 How to reach me: cobe.lawson@gmail.com
 - 😄 Pronouns: He/Him
-- LinkedIn: https://www.linkedin.com/in/cobe-lawson-a58a5b18b/
+- LinkedIn: https://www.linkedin.com/in/cobe-lawson/
