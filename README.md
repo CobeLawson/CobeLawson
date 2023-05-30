@@ -5,7 +5,7 @@ My name is Cobe Lawson, and I'm an aspiring software developer. I have been stud
 Ever since I was a boy, I have been obsessed with technology, computers, games, hardware. I built my own desktop when I graduated high school and I still use it today, nearly ten years later (though with a few upgrades along the way). In addition to that I have a passion for books, movies, stories, music, art, and so much more!
 
 
-- 🌱 I’m currently learning the intricacies of Git as well as refamiliarizing myself with the syntax and structure of Java.
+- 🌱 I’m currently expanding my knowledge of more programming languages and systems such as React and refamiliarizing myself with JavaScript
 - 📫 How to reach me: cobe.lawson@gmail.com
 - 😄 Pronouns: He/Him
 - LinkedIn: https://www.linkedin.com/in/cobe-lawson/
